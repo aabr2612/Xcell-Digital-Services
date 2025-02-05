@@ -126,5 +126,4 @@ This project is licensed under the MIT License.
 
 <footer>
 <p>&copy; 2024 XCELL Digital Solutions. All rights reserved.</p>
-<p>Contact: <a href="mailto:aabr2612@gmail.com">aabr2612@gmail.com</a></p>
 </footer>
