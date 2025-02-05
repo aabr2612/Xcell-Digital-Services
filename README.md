@@ -20,7 +20,7 @@ Welcome to **XCELL Digital Services** – a digital marketing and web developmen
 3. [Assets Used](#assets-used)  
 4. [How to Run the Project](#how-to-run-the-project)  
 5. [Contributions](#contributions)  
-6. [License](#license)  
+
 
 ---
 
@@ -120,10 +120,3 @@ Follow these steps to run the project locally:
    ```bash
    git clone https://github.com/username/xcelle-digital-services.git
 Open the `index.html` file in your browser to view the website locally.
-
-## License
-This project is licensed under the MIT License.
-
-<footer>
-<p>&copy; 2024 XCELL Digital Solutions. All rights reserved.</p>
-</footer>
